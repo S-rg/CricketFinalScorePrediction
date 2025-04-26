@@ -43,5 +43,6 @@ dmypy.json
 *.swp
 *.swo
 
-# Ignore the odis_json directory
+# Ignore the directory
 odis_json/
+data/
